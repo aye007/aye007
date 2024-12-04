@@ -7,18 +7,18 @@
     ### My Skills:
     I'm a passionate developer with skills in:
 
-    - ![PHP](https://img.icons8.com/ios/50/000000/php-logo.png) PHP
-    - ![Laravel](https://img.icons8.com/ios/50/000000/laravel.png) Laravel
-    - ![HTML](https://img.icons8.com/ios/50/000000/html-5.png) HTML
-    - ![CSS](https://img.icons8.com/ios/50/000000/css3.png) CSS
-    - ![React](https://img.icons8.com/ios/50/000000/react.png) React
-    - ![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png) JavaScript
-    - ![jQuery](https://img.icons8.com/ios/50/000000/jquery.png) jQuery
+    - ![PHP](**Replace with Font Awesome or Octicon code for PHP**) PHP
+    - ![Laravel](**Replace with Font Awesome or Octicon code for Laravel**) Laravel
+    - ![HTML](**Replace with Font Awesome or Octicon code for HTML5**) HTML
+    - ![CSS](**Replace with Font Awesome or Octicon code for CSS3**) CSS
+    - ![React](**Replace with Font Awesome or Octicon code for React**) React
+    - ![JavaScript](**Replace with Font Awesome or Octicon code for JavaScript**) JavaScript
+    - ![jQuery](**Replace with Font Awesome or Octicon code for jQuery**) jQuery
 
   </div>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/aye007/aye007/blob/main/arash.png?raw=true" alt="Arash's Picture" width="300" style="border-radius: 10px;"/>
+    <img src="**path/to/your/profile_picture.png**" alt="Arash's Picture" width="300" style="border-radius: 10px;"/>
   </div>
 
 </div>
