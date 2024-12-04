@@ -8,16 +8,7 @@
 
   <div style="display: flex; flex-direction: column; align-items: center;">
 
-    ### My Skills:
-    I'm a passionate developer with skills in:
-
-    - <i class="fab fa-php"></i> PHP
-    - <i class="fab fa-laravel"></i> Laravel
-    - <i class="fab fa-html5"></i> HTML
-    - <i class="fab fa-css3"></i> CSS
-    - <i class="fab fa-react"></i> React
-    - <i class="fab fa-js"></i> JavaScript
-    - <i class="fab fa-jquery"></i> jQuery
+[![My Skills](https://skillicons.dev/icons?i=angular,html,js,react,vue,flutter,laravel,ps,php,sass,wordpress,xd,vscode&perline=3)](https://skillicons.dev)
 
   </div>
 
