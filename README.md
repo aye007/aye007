@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi there 
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; padding-right: 20px;">
 
-  <!-- Left side: Skills with icons -->
-  <div style="display: flex; flex-direction: column; align-items: center; padding-right: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
 
     ### My Skills:
     I'm a passionate developer with skills in:
@@ -18,7 +17,6 @@
 
   </div>
 
-  <!-- Right side: Profile picture -->
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/aye007/aye007/blob/main/arash.png?raw=true" alt="Arash's Picture" width="300" style="border-radius: 10px;"/>
   </div>
