@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- Left side: Skills with icons -->
-  <div style="display: inline-block; text-align: left; padding-right: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center; padding-right: 20px;">
 
     ### My Skills:
     I'm a passionate developer with skills in:
@@ -19,8 +19,8 @@
   </div>
 
   <!-- Right side: Profile picture -->
-  <div style="display: inline-block; vertical-align: top;">
-    <img src="https://github.com/aye007/aye007/blob/main/arash.png" alt="Arash's Picture" width="300" style="border-radius: 10px;"/>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/aye007/aye007/blob/main/arash.png?raw=true" alt="Arash's Picture" width="300" style="border-radius: 10px;"/>
   </div>
-  
+
 </div>
