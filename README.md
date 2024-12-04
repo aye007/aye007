@@ -7,6 +7,6 @@
       These are my technical skills. I enjoy working with a wide range of technologies, from frontend to backend development, and UI/UX design.
     </p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,html,js,react,vue,flutter,laravel,ps,php,sass,wordpress,xd,vscode&perline=5" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=angular,html,js,react,vue,flutter,laravel,ps,php,sass,wordpress,xd,vscode&perline=8" alt="My Skills"/>
   </a>
 </div>
