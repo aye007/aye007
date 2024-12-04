@@ -1,21 +1,19 @@
 ## Hi there
 
-<table style="border: none; width: 100%; text-align: center;">
-  <tr>
-    <!-- Image Section -->
-    <td style="border: none; width: 50%; vertical-align: top;">
-      <img src="https://github.com/aye007/aye007/blob/main/arash.png?raw=true" 
-           alt="Arash's Picture" 
-           style="width: 80%; max-width: 300px;" />
-    </td>
-    <!-- GIF Section -->
-    <td style="border: none; width: 50%; vertical-align: top;">
-      <img src="https://github.com/aye007/aye007/blob/main/about_me.gif?raw=true" 
-           alt="About Me GIF" 
-           style="width: 80%; max-width: 300px;" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- Image Section -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/aye007/aye007/blob/main/arash.png?raw=true" 
+         alt="Arash's Picture" 
+         style="width: 300px; height: auto;" />
+  </div>
+  <!-- GIF Section -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/aye007/aye007/blob/main/about_me.gif?raw=true" 
+         alt="About Me GIF" 
+         style="width: 300px; height: auto;" />
+  </div>
+</div>
 
 <!-- Skills Section -->
 <div align="center" style="margin-top: 20px;">
