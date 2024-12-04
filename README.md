@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Arash's Picture](https://github.com/aye007/aye007/blob/main/arash.png)
+
 <!--
 **aye007/aye007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
