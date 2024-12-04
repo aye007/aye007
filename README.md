@@ -1,5 +1,10 @@
 ## Hi there
-
+<div align="center">
+  <video width="45%" autoplay muted loop>
+    <source src="https://github.com/aye007/aye007/blob/main/arash.mov?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 <div align="center">
     <div style="width:45%">
   <img src="https://github.com/aye007/aye007/blob/main/arash.png?raw=true" alt="Arash's Picture" width="45%" />
