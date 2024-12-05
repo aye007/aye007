@@ -1,7 +1,7 @@
 ## Hi there
 
 
-<img src="https://github.com/aye007/aye007/blob/main/arash.png?raw=true" alt="Arash's Picture" width="260" height="auto" />  <img src="https://github.com/aye007/aye007/blob/main/about.gif?raw=true" alt="About Me GIF" width="570" height="auto" /> 
+<img src="https://github.com/aye007/aye007/blob/main/arash.png?raw=true" alt="Arash's Picture" width="250" height="auto" />  <img src="https://github.com/aye007/aye007/blob/main/about.gif?raw=true" alt="About Me GIF" width="550" height="auto" /> 
 
 <!-- Skills Section -->
 <div align="left" style="margin-top: 150px;">
