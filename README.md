@@ -10,7 +10,7 @@
   <!-- GIF Section -->
   <div style="flex: 1; text-align: center;">
     <img src="https://github.com/aye007/aye007/blob/main/about_me.gif?raw=true" 
-         alt="About Me GIF" 
+         alt="About Me GIF"  
          style="width: 300px; height: auto;" />
   </div>
 </div>
