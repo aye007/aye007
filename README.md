@@ -16,6 +16,8 @@
 
 </div>
 
+<br><br>
+![Arash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aye007&show_icons=true&theme=chartreuse-dark)
 
 <br><br>
 <p style="font-size: 32px;margin-top:50px;"><strong>Support me</strong></p>
