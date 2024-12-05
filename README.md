@@ -1,19 +1,7 @@
 ## Hi there
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <!-- Image Section -->
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/aye007/aye007/blob/main/arash.png?raw=true" 
-         alt="Arash's Picture" 
-         style="width: 300px; height: auto;" />
-  </div>
-  <!-- GIF Section -->
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/aye007/aye007/blob/main/about.gif?raw=true" 
-         alt="About Me GIF"  
-         style="width: 300px; height: auto;" />
-  </div>
-</div>
+
+<img src="https://github.com/aye007/aye007/blob/main/arash.png?raw=true" alt="Arash's Picture" width="325" height="auto" />  <img src="https://github.com/aye007/aye007/blob/main/about.gif?raw=true" alt="About Me GIF" width="680" height="auto" /> 
 
 <!-- Skills Section -->
 <div align="center" style="margin-top: 20px;">
