@@ -20,7 +20,7 @@
  
 <br>
 
- ![Snake animation](https://github.com/aye007/aye007/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/aye007/aye007/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br><br>
 
