@@ -13,19 +13,22 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,react,angular,vue,flutter,nodejs,laravel,wordpress,sass,jquery,bootstrap,webpack,vite,symfony,kubernetes,docker,debian,github,ai,ps,xd,phpstorm,postman,ai" 
        alt="My Skills" />
 </a>
-
 </div>
+
 <br>
 
+## My Stats
 ![Arash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aye007&show_icons=true&theme=chartreuse-dark)
 
 
 <br>
 
-![Arash's GitHub stats](https://github-profile-trophy.vercel.app/?username=aye007&theme=gruvbox)
+## My Trophies
+![Arash's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aye007&theme=gruvbox)
 
-<br><br>
-<p style="font-size: 32px;margin-top:50px;"><strong>Support me</strong></p>
+<br>
+
+## Support Me
 <a href="https://buymeacoffee.com/arashyazdani" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
