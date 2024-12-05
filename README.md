@@ -1,4 +1,4 @@
-## Hi there
+## Hi There 👋, I'm Arash
 
 
 <img src="https://github.com/aye007/aye007/blob/main/arash.png?raw=true" alt="Arash's Picture" width="264" height="auto" />  <img src="https://github.com/aye007/aye007/blob/main/about.gif?raw=true" alt="About Me GIF" width="550" height="auto" /> 
