@@ -17,8 +17,9 @@
 </div>
 
 <br>
-
+![Snake animation](https://github.com/aye007/aye007/blob/output/github-contribution-grid-snake.svg)
 <br>
+
 ![Arash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aye007&show_icons=true&theme=chartreuse-dark)
 
 <br><br>
