@@ -17,12 +17,7 @@
 </div>
 
 
- 
 <br>
-
- ![Snake animation](https://github.com/aye007/aye007/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br><br>
 
 ![Arash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aye007&show_icons=true&theme=chartreuse-dark)
 
@@ -31,3 +26,6 @@
 <a href="https://buymeacoffee.com/arashyazdani" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
+<br>
+
+ ![Snake animation](https://github.com/aye007/aye007/blob/output/github-contribution-grid-snake-dark.svg)
