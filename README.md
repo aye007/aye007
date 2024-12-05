@@ -17,7 +17,8 @@
 </div>
 <br>
 
-![Arash's Github Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true)
+![Arash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aye007&show_icons=true&theme=chartreuse-dark)
+
 
 <br>
 
